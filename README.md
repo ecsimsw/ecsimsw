@@ -16,8 +16,8 @@
  - Latest project : https://github.com/ecsimsw/Giggle 
  
 ## Fun Facts
-- My favorite language is `JAVA` 📌
-- I 💛 `Post Malone`, `Apple` and `The Bigbang theory`
+ - My favorite language is `JAVA` and most familiar IDE is `IntelliJ` 📌
+ - I 💛 `Post Malone`, `Apple` and `The Bigbang theory`
 
 
 <!--
