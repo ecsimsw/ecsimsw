@@ -7,13 +7,13 @@
 
  - 🌱 I’m currently learning : `Spring boot`, `JPA`, `AWS`
  - 🤔 I'm interested in : `JAVA`, `Spring Framework`, `ORM & JPA`, `Algorithm`, `OOP`, `Machine Learning`, `Operating System`
- - 📝 I regulary write articles on : https://ecsimsw.tistory.com/
+ - 📝 I regulary write articles on : https://ecsimsw.tistory.com
  
 ## My 2020
  
  - What I studied intensively : `Spring` / `Spring MVC` / `Spring boot` / `JPA`
  - 3 best 📖 of my 2020 : `자바의 정석`, `스프링 부트와 AWS로 혼자 구현하는 웹 서비스`, `파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문`
- - Latest project : https://github.com/ecsimsw/Giggle
+ - Latest project : https://github.com/ecsimsw/Giggle 
  
 ## Fun Facts
 - My favorite language is `JAVA` 📌
