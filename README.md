@@ -6,7 +6,7 @@
 ## About me
 
  - 🌱 I’m currently learning : `Spring boot`, `JPA`, `AWS`
- - 🤔 My current interest is : `JAVA`, `Spring Framework`, `ORM & JPA`, `Algorithm`, `OOP`, `Machine Learning`, `Operating System`
+ - 🤔 I'm interested in : `JAVA`, `Spring Framework`, `ORM & JPA`, `Algorithm`, `OOP`, `Machine Learning`, `Operating System`
  - 📝 I regulary write articles on : https://ecsimsw.tistory.com/
  
 ## My 2020
