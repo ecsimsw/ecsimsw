@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fecsimsw&count_bg=%23C9C9C9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fecsimsw.tistory.com&count_bg=%23C9C9C9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Blog%20%20%20&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 <!--
 **ecsimsw/ecsimsw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
