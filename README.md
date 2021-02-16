@@ -5,7 +5,7 @@
 
 ## About me
 
- - 🌱 I’m currently learning : `TDD`, `Spring boot`, `JPA`, `AWS` / `Effective JAVA`
+ - 🌱 I’m currently learning : `TDD`, `OOP`, `JAVA` / `객체지향의 사실과 오해`, `Effective JAVA`
  - 🤔 I'm interested in : `JAVA`, `Spring Framework`, `ORM & JPA`, `Algorithm`, `OOP`, `Machine Learning`, `Operating System`
  - 📝 I regulary write articles on : https://ecsimsw.tistory.com
 
