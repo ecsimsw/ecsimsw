@@ -5,7 +5,7 @@
 
 ## About me
 
- - 🌱 I’m currently learning : `Spring`, `JPA`, `JAVA` / `초보 웹 개발자를 위한 스프링5`, `Effective JAVA`
+ - 🌱 I’m currently learning : `Spring`, `JPA`, `docker`
  - 🤔 I'm interested in : `JAVA`, `Spring Framework`, `ORM & JPA`, `TDD`, `OOP`
  - 📝 I regulary write articles on : https://ecsimsw.tistory.com
 
